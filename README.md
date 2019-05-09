@@ -53,8 +53,8 @@ supplementary file 3.
 3. Troubleshoot PIRs 
 
 
-Authors.
-Fisk, A.S. angus.fisk@ndcn.ox.ac.uk
-McKillop L.
-Krone L.
-van der Vinne V. 
+### Authors.
+Fisk, A.S. angus.fisk@ndcn.ox.ac.uk  
+McKillop L.  
+Krone L.  
+van der Vinne V.   
