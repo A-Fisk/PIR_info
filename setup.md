@@ -19,7 +19,7 @@ delay to 1.
 - Plug Raspberry Pi into monitor/keyboard/mouse  
 - Open Node-red  
 - enable nodered to autostart  
-  - sudo systemct1 node-red.service (?)  
+  - `sudo systemct1 node-red.service`  
 - Import flows to be used (source?)  
 - Check Serial port to listen to by connecting 
 Arduino and seeing if output comes up in debug panel  
