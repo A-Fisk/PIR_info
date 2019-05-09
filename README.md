@@ -8,6 +8,13 @@ It will provide an overview of the requirements, basic building,
 setup, and some basic troubleshooting. 
 For further help, contact the authors. 
 
+## Guide structure  
+
+1. Build PIRs  
+2. Setup PIRs  
+3. Troubleshoot PIRs 
+
+
 ### Requirements  
 
 For specific details, see 
@@ -45,13 +52,6 @@ supplementary file 3.
   - [Node.js](https://nodejs.org/en/)  
   - [node-red](https://nodered.org/docs/getting-started/installation)  
     - `sudo npm install -g --unsafe-perm node-red`
-
-## Guide structure  
-
-1. Build PIRs  
-2. Setup PIRs  
-3. Troubleshoot PIRs 
-
 
 ### Authors.
 Fisk, A.S. angus.fisk@ndcn.ox.ac.uk  
