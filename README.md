@@ -14,7 +14,8 @@ For specific details, see
 [Brown et al 2016](https://wellcomeopenresearch.org/articles/1-2/v2).
 
 ####  Sensors  
-- Sensor circuit Boards  
+- Sensor circuit Boards - Fritz file available in paper 
+supplementary file 3.  
 - Resistors  
   - 1k, 10k  
 - PIR sensors  
@@ -28,6 +29,7 @@ For specific details, see
 #### Sensor Reading devise - Arduino 
 - Arduino Uno  
 - circuit board  
+  - Fritz design present in paper supplement file 4.  
   - Vertical connectors  
   - 2, 1, 6 pin connectors  
 - USB to ? usb cable  
